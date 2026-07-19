@@ -49,10 +49,10 @@ Terdiri dari 5 tabel utama:
 git clone https://github.com/MNAdamB/IndoWeatherSensor.git
 ```
 
-2. Import database
+2. Import database (extact dulu file zipnya)
 
 ```
-indo_weather.sql
+indo_weather.zip
 ```
 
 3. Edit file
