@@ -55,13 +55,18 @@ git clone https://github.com/MNAdamB/IndoWeatherSensor.git
 database.zip
 ```
 
-3. Edit file
+3. Jika runnging di hosting sendiri, Edit file ini untuk koneksi db
 
 ```
 koneksi.php
 ```
 
-4. Jalankan menggunakan XAMPP
+4. Jika runnging di localhost, Edit file ini untuk path directory
+
+```
+config.php
+```
+5. Jalankan menggunakan XAMPP
 
 ```
 http://localhost/web_lanjutan/indo_weather
