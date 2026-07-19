@@ -61,7 +61,7 @@ database.zip
 koneksi.php
 ```
 
-4. Jika runnging di localhost, Edit file ini untuk path directory
+4. Jika running di localhost, Edit file ini untuk path directory
 
 ```
 config.php
