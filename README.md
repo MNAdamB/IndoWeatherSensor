@@ -52,7 +52,7 @@ git clone https://github.com/MNAdamB/IndoWeatherSensor.git
 2. Import database (extact dulu file zipnya)
 
 ```
-indo_weather.zip
+database.zip
 ```
 
 3. Edit file
